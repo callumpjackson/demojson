@@ -1,0 +1,66 @@
+{
+  "customers": [
+    {
+      "id": 1234567890,
+      "name": "Kim Clark",
+      "accounts":
+      {
+        "savings":
+        {
+          "accountNumber": "SAV1234567890",
+          "balance": "$10000.00",
+          "status": "Active",
+          "lastTransaction": "July 18th 2022 Credit $50.00",
+          "dateOpened": "Jan 5th 2018" 
+        },
+        "checking":
+        {
+          "accountNumber": "CHK1234567890",
+          "balance": "$100.00",
+          "status": "Active",
+          "lastTransaction": "July 25th 2022 Debit $25.00",
+          "dateOpened": "Feb 11th 2017" 
+        },
+        "loans":
+        {
+          "accountNumber": "LOAN1234567890",
+          "balance": "$10000.00",
+          "status": "Active",
+          "lastTransaction": "July 25th 2022 Credit $1000.00",
+          "dateOpened": "Feb 11th 2017" 
+        }
+      }
+    },
+    {
+      "id": 2345678901,
+      "name": "Callum Jackson",
+      "accounts":
+      {
+        "savings":
+        {
+          "accountNumber": "SAV2345678901",
+          "balance": "$1.00",
+          "status": "Active",
+          "lastTransaction": "Nov 17th 2015 Credit $1.00",
+          "dateOpened": "Feb 17th 2020" 
+        },
+        "checking":
+        {
+          "accountNumber": "CHK2345678901",
+          "balance": "$30.00",
+          "status": "Active",
+          "lastTransaction": "August 15th 2022 Debit $25.00",
+          "dateOpened": "March 11th 2020" 
+        },
+        "loans":
+        {
+          "accountNumber": "LOAN2345678901",
+          "balance": "$100000.00",
+          "status": "Active",
+          "lastTransaction": "May 21th 2022 Credit $1000.00",
+          "dateOpened": "September 25th 2018" 
+        }
+      }
+    }
+  ]
+}
