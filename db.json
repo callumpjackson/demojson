@@ -11,7 +11,7 @@
           "balance": "$10000.00",
           "status": "Active",
           "lastTransaction": "July 18th 2022 Credit $50.00",
-          "dateOpened": "Jan 5th 2018" 
+          "dateOpened": "2017-15-01T11:00:01.141Z" 
         },
         "checking":
         {
@@ -19,7 +19,7 @@
           "balance": "$100.00",
           "status": "Active",
           "lastTransaction": "July 25th 2022 Debit $25.00",
-          "dateOpened": "Feb 11th 2017" 
+          "dateOpened": 2016-08-21T08:32:00.000Z" 
         },
         "loans":
         {
@@ -27,7 +27,7 @@
           "balance": "$10000.00",
           "status": "Active",
           "lastTransaction": "July 25th 2022 Credit $1000.00",
-          "dateOpened": "Feb 11th 2017" 
+          "dateOpened": "2020-04-02T17:00:00.000Z" 
         }
       }
     },
@@ -42,7 +42,7 @@
           "balance": "$1.00",
           "status": "Active",
           "lastTransaction": "Nov 17th 2015 Credit $1.00",
-          "dateOpened": "Feb 17th 2020" 
+          "dateOpened": "2020-02-17T10:15:00.000Z" 
         },
         "checking":
         {
@@ -50,7 +50,7 @@
           "balance": "$30.00",
           "status": "Active",
           "lastTransaction": "August 15th 2022 Debit $25.00",
-          "dateOpened": "March 11th 2020" 
+          "dateOpened": "2020-03-11T09:10:00.000Z" 
         },
         "loans":
         {
@@ -58,7 +58,7 @@
           "balance": "$100000.00",
           "status": "Active",
           "lastTransaction": "May 21th 2022 Credit $1000.00",
-          "dateOpened": "September 25th 2018" 
+          "dateOpened": "2018-09-25T18:00:00.000Z" 
         }
       }
     }
